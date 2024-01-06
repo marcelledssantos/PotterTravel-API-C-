@@ -1,6 +1,0 @@
-@PotterTravel_HostAddress = http://localhost:5078
-
-GET {{PotterTravel_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
