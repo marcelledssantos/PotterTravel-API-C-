@@ -10,7 +10,7 @@ using PotterTravel.Data;
 namespace PotterTravel.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240107002701_firstmigration")]
+    [Migration("20240107014407_firstmigration")]
     partial class firstmigration
     {
         /// <inheritdoc />
