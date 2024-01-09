@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PotterTravel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad306f74c586ebd1256072f996ffc8edfa683763")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfd018c172042575dc7bd7edb4609477f4e0ed3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotterTravel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotterTravel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
